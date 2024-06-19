@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-Effective Date: Jun 15 2024
+Effective Date: Jun 19 2024
 
 Introduction
 
@@ -13,17 +13,12 @@ Information We Collect
 We collect the following information when you use the App:
 
     Device Information: We collect non-personally identifiable information about your device, such as device model, operating system version, unique device identifiers, and network information. This information is used to improve the App's functionality and compatibility with your device.
-    Usage Data: We collect data about your use of the App, such as the features you access, the frequency of your use, and crash logs. This information is used to improve the App's performance and user experience.
 
 How We Use Your Information
 
 We use the information we collect for the following purposes:
 
-    To provide and operate the App
-    To improve and personalize the App
-    To analyze how the App is used
-    To diagnose and fix technical problems
-    To provide customer support
+    To Secure the App from fraud
 
 Sharing Your Information
 
@@ -35,15 +30,6 @@ Data Retention
 
 We will retain your information for as long as necessary to provide the App and fulfill the purposes described in this Privacy Policy. We may also retain your information for legal or regulatory compliance reasons.
 
-Your Choices
-
-You can access, update, or delete your information by contacting us through the App or at [your email address].
-
-You can also opt out of the collection of certain information by adjusting your device settings. However, please note that this may limit your ability to use certain features of the App.
-
-Children's Privacy
-
-The App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and you believe that your child has provided us with personal information, please contact us. We will take steps to delete the information from our servers.
 
 Security
 
@@ -59,11 +45,11 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [your email address].
+If you have any questions about this Privacy Policy, please contact us at mellossdev@gmail.com
 
 Terms of Service
 
-Effective Date: [Date] (Replace with the actual date)
+Effective Date: 19, Jun 2024
 
 Welcome to Arganon!
 
